@@ -8,7 +8,7 @@ See `requirements.txt` for dependencies.
 **Getting Started**
 
 1. Clone the repository or watch Tech with Tim's tutorial [here](https://www.youtube.com/watch?v=uN7X819DUlQ)
-2. Creat a .even file within the project folder that contains the following keys:
+2. Creat a .env file within the project folder that contains the following keys:
 ```
 GITHUB_TOKEN=""
 ASTRA_DB_API_ENDPOINT=""
