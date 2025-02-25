@@ -1,0 +1,14 @@
+Summary of the 3 most recent open issues:
+1. Issue 1: [Issue Title 1]
+Description: [Issue Description 1]
+
+2. Issue 2: [Issue Title 2]
+Description: [Issue Description 2]
+
+3. Issue 3: [Issue Title 3]
+Description: [Issue Description 3]
+Issue 1: [Issue Title 1]
+
+Issue 2: [Issue Title 2]
+
+Issue 3: [Issue Title 3]
